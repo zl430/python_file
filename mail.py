@@ -1,29 +1,29 @@
 import smtplib
-from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from email.mime.application import MIMEApplication
+from email.header import Header
  
-from_addr='xxxx@163.com'
-password='xxx'
-to_addr=['1906869123@qq.com']
+# 第三方 SMTP 服务
+mail_host="smtp.sina.com"  #设置服务器
+mail_user="fyhd_monitoring@sina.com"    #用户名
+mail_pass="QWEasd.123"   #口令
  
-msg=MIMEMultipart()
-msg['from']=from_addr
-msg['to']=','.join(to_addr)
-msg['subject']='又一封'
-content='给你发2个附件'
-txt=MIMEText(content)
-msg.attach(txt)
-with open('D:/tmp/1125/1.doc','rb') as f:
-	att=MIMEApplication(f.read())
-	att.add_header('Content-Disposition','attachment',filename=('gb2312','','中文.doc'))
-	msg.attach(att)
-with open('D:/tmp/1125/2.txt','rb') as f:
-	att=MIMEApplication(f.read())
-	att.add_header('Content-Disposition','attachment',filename='2.txt')
-	msg.attach(att)
-server=smtplib.SMTP('smtp.163.com',25)
-server.login(from_addr,password)
-server.sendmail(from_addr,to_addr,str(msg))
-server.quit()
-print('OK')
+ 
+sender = 'fyhd_monitoring@sina.com'
+receivers = ['1906869123@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+ 
+message = MIMEText('Python 邮件发送测试...', 'plain', 'utf-8')
+message['From'] = Header("菜鸟教程", 'utf-8')
+message['To'] =  Header("测试", 'utf-8')
+ 
+subject = 'Python SMTP 邮件测试'
+message['Subject'] = Header(subject, 'utf-8')
+ 
+ 
+try:
+    smtpObj = smtplib.SMTP() 
+    smtpObj.connect(mail_host, 25)    # 25 为 SMTP 端口号
+    smtpObj.login(mail_user,mail_pass)
+    smtpObj.sendmail(sender, receivers, message.as_string())
+    print ("邮件发送成功")
+except smtplib.SMTPException:
+    print ("Error: 无法发送邮件")

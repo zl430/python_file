@@ -71,5 +71,6 @@ def usr_up():
     btn_comfirm_usr_up.place(x=150,y=150)
     btn_comfirm_usr_up.pack()
 btn_login = tk.Button(test,text='登陆',command=usr_login).place(x=135,y=250)
-btn_up = tk.Button(test,text='注册',command=usr_up).place(x=270,y=250)
+# btn_up = tk.Button(test,text='注册',command=usr_up).place(x=270,y=250)
+btn_up = tk.Button(test,text='联系管理员',command=usr_up).place(x=270,y=250)
 test.mainloop()

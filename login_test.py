@@ -35,7 +35,6 @@ def anw_button(db_host=ip[0], db_user=us[0], db_pass=pd[0], db_port=pt[0], db_da
     )
     '''
     db_user_name = entry1.get()
-    print(db_user_name)
     mydb = mysql.connector.connect(
         host=str(db_host),   # 数据库主机地址a
         user=str(db_user),    # 数据库用户名
@@ -57,6 +56,7 @@ def anw_button(db_host=ip[0], db_user=us[0], db_pass=pd[0], db_port=pt[0], db_da
         else:
             label3['text'] = '用户名或密码错误，请重新输入！'
 def registered():
+    top.destroy()
     import zc
     zc
 #---------------------------------窗口主体---------------------------------------------

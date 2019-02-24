@@ -64,6 +64,8 @@ def registered():
     top.destroy()
     import zc
     zc
+def guanbi():
+    label3['text'] = '注册功能以关闭'
 #---------------------------------窗口主体---------------------------------------------
 label1 = tkinter.Label(top, text='用户名:', font=('宋体', '18'))
 label1.grid(row=0, column=0)
@@ -81,7 +83,8 @@ button1 = tkinter.Button(top, text='登陆', font=('宋体', '18'), command = an
 # button1 = tkinter.Button(top, text='登陆', font=('宋体', '18'), command = dl)
 button1.grid(row=2, column=0, padx=50, pady=10)
 # button2 = tkinter.Button(top, text='注册', font=('宋体', '18'), command = sys.exit)
-button2 = tkinter.Button(top, text='注册', font=('宋体', '18'), command = registered)
+# button2 = tkinter.Button(top, text='注册', font=('宋体', '18'), command = registered)
+button2 = tkinter.Button(top, text='注册', font=('宋体', '18'), command = guanbi)
 button2.grid(row=2, column=1, padx=80, pady=10)
 label3 = tkinter.Label(top, text='信息提示区', font=('华文新魏', '16'), relief = 'ridge', width = 30)
 label3.grid(row=3, column=0, padx=10, pady=10, columnspan=2, sticky='s')

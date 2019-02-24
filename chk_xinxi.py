@@ -2,7 +2,6 @@
 import tkinter as tk
 import re
 import mysql.connector
-import select_sql
 from tkinter import ttk
 chk_win = tk.Tk()
 chk_win.geometry('800x500')

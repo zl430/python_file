@@ -16,9 +16,6 @@ b1.pack()
 var2 = tk.StringVar()
 var2.set((11,22,33,44))
 lb = tk.Listbox(test,listvariable=var2)  #listvariable 传入列表
-list_items = [1,2,3,4]
-for item in list_items:
-    lb.insert('end',item)
 lb.pack()
 test.mainloop()
 

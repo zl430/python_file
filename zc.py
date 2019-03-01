@@ -15,6 +15,7 @@ def validateText():
     else:
         label3['text'] = '用户名只能包含字母、数字、下划线'
         return False
+<<<<<<< HEAD
 def mailText():
     mail = entry3.get()
     if re.findall('^[0-9a-zA-Z_]{1,}@[0-9a-zA-Z_]{1,}.[a-z]{1,3}$', str(mail)):
@@ -24,8 +25,12 @@ def mailText():
         return False
 def zc_over():
     tkinter.messagebox.showinfo(title='提示信息', message='注册成功')
+=======
+def over():
+     tkinter.messagebox.showinfo(title='提示信息', message='注册成功')
+>>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
 #--------------------------获取数据库信息-----------------------------------
-file = open('mysql.conf', 'r')
+file = open('E:/Git/file/python_file/db_mysql.conf', 'r')
 f = file.readlines()
 l = " ".join(f)
 ip = re.findall(r"host=(.\S+)", l)
@@ -50,6 +55,7 @@ def db_check():
     mycursor = mydb.cursor()    #创建游标
     u_name = entry1.get()
     u_pass = entry2.get()
+<<<<<<< HEAD
     u_mail = entry3.get()
     if u_name != "" and u_pass != "" and u_mail != "":
         mycursor.execute("select * FROM py_table where name = " + u_name)
@@ -63,8 +69,27 @@ def db_check():
             win.destroy()
         else:
             label3['text'] = '该用户已被注册'
+=======
+    if u_name != "":
+        mycursor.execute("select * FROM py_user_table where name =  " + u_name)
+        results = mycursor.fetchall()
+        if list(results[0][0]) != '':
+            label3['text'] = u_name, '该名字已被使用'
+            print('注册已使用用户',u_name,'失败')
+>>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
     else:
-        label3['text'] = '不允许为空值'
+        if u_name != "" and u_pass != "":
+            mycursor.execute("INSERT INTO py_user_table (name, password) VALUES (%s, %s)", (u_name, u_pass))
+            mydb.commit()
+            print(mycursor.rowcount, "记录插入成功。")
+            label3['text'] = u_name, '注册成功'
+            win.destroy()
+            over()
+        else:
+            label3['text'] = '不允许为空值'
+def denglu():
+    win.destroy()
+    import login_test
 #------------------------------------------------------------------------------------
 label1 = tkinter.Label(win, text='用户名:', font=('宋体', '18'))
 label1.grid(row=0, column=0)
@@ -83,6 +108,7 @@ entry3 = tkinter.Entry(win, font=('宋体', '18'), textvariable = M, validate = 
 entry3.grid(row=2, column=1)
 entry3.focus_force()
 button1 = tkinter.Button(win, text='注册', font=('宋体', '18'), command = db_check)
+<<<<<<< HEAD
 button1.grid(row=3, column=0, padx=50, pady=10)
 button2 = tkinter.Button(win, text='退出', font=('宋体', '18'), command = sys.exit)
 button2.grid(row=3, column=1, padx=80, pady=10)
@@ -91,4 +117,12 @@ label3.grid(row=4, column=0, padx=10, pady=10, columnspan=2, sticky='s')
 # def cs():
 #     print(tkinter_file.messagebox.askquestion(title='Hi', message='成功的'))
 #     tkinter_file.Button(win, text='注册', command=cs).pack()
+=======
+button1.grid(row=2, column=0, padx=50, pady=10)
+button2 = tkinter.Button(win, text='返回', font=('宋体', '18'), command = denglu)
+# button2 = tkinter.Button(win, text='退出', font=('宋体', '18'), command = sys.exit)
+button2.grid(row=2, column=1, padx=80, pady=10)
+label3 = tkinter.Label(win, text='信息提示区', font=('华文新魏', '16'), relief = 'ridge', width = 30)
+label3.grid(row=3, column=0, padx=10, pady=10, columnspan=2, sticky='s')
+>>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
 win.mainloop()

@@ -5,6 +5,7 @@ import mysql.connector
 top = tkinter.Tk()
 top.geometry('400x170+350+150')
 top.wm_title('综合实例')
+top.resizable(width=False, height=False)
 def validateText():
     val = entry1.get()
     pwd = entry2.get()
@@ -59,6 +60,8 @@ def registered():
     top.destroy()
     import zc
     zc
+def down_zc():
+    label3['text'] = '注册功能已关闭'
 #---------------------------------窗口主体---------------------------------------------
 label1 = tkinter.Label(top, text='用户名:', font=('宋体', '18'))
 label1.grid(row=0, column=0)
@@ -74,7 +77,7 @@ entry2 = tkinter.Entry(top, font=('宋体', '18'), show = '*')
 entry2.grid(row=1, column=1)
 button1 = tkinter.Button(top, text='登陆', font=('宋体', '18'), command = anw_button)
 button1.grid(row=2, column=0, padx=50, pady=10)
-# button2 = tkinter.Button(top, text='注册', font=('宋体', '18'), command = sys.exit)
+# button2 = tkinter_file.Button(top, text='注册', font=('宋体', '18'), command = sys.exit)
 button2 = tkinter.Button(top, text='注册', font=('宋体', '18'), command = registered)
 button2.grid(row=2, column=1, padx=80, pady=10)
 label3 = tkinter.Label(top, text='信息提示区', font=('华文新魏', '16'), relief = 'ridge', width = 30)

@@ -21,18 +21,8 @@ def signin():
         return '<h3>Hello, admin!</h3>'
     return '<h3>Bad username or password.</h3>'
 @app.route('/test', methods=['POST'])
-def dnspod():
+def test():
     if request.form['user'] == 'test':
         return '<h3>aaaaaaaaaaaa</h3>'
-@app.route('/user_chk', methods=['POST'])
-def user_chk():
-    name = request.form['username']
-    password = request.form['password']
-    from requrst import mysql_select
-    over = mysql_select.mysql_select(name, password)
-    overa = over.user_select()
-    if overa == True:
-        return 'you name ' + name + 'and password' + password
-    return '用户名密码错误'
 if __name__ == '__main__':
     app.run(port=66)

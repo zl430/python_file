@@ -2,7 +2,6 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/login/login_test.py" line="59" />
-    <bookmark url="file://$PROJECT_DIR$/zc.py" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f46569a0-42ae-4ac9-ba4c-5990d82bde42" name="Default" comment="" />
@@ -18,99 +17,51 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/file$excel.coverage" NAME="excel Coverage Results" MODIFIED="1548326104830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$.coverage" NAME="登陆框测试 Coverage Results" MODIFIED="1550632617868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$zabbix.coverage" NAME="zabbix Coverage Results" MODIFIED="1551157217718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
-    <SUITE FILE_PATH="coverage/file$a.coverage" NAME="a Coverage Results" MODIFIED="1551179844506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file$a.coverage" NAME="a Coverage Results" MODIFIED="1551432949184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$dnspod_add.coverage" NAME="dnspod_add Coverage Results" MODIFIED="1551149268630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
     <SUITE FILE_PATH="coverage/file$test.coverage" NAME="test Coverage Results" MODIFIED="1551321743398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-=======
-    <SUITE FILE_PATH="coverage/file$a.coverage" NAME="a Coverage Results" MODIFIED="1548325844331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-<<<<<<< HEAD
-    <SUITE FILE_PATH="coverage/file$select_sql.coverage" NAME="select_sql Coverage Results" MODIFIED="1550987752443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-=======
-    <SUITE FILE_PATH="coverage/file$test.coverage" NAME="test Coverage Results" MODIFIED="1550831586411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
     <SUITE FILE_PATH="coverage/file$login_test__1_.coverage" NAME="login_test (1) Coverage Results" MODIFIED="1550817542813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login" />
-    <SUITE FILE_PATH="coverage/file$mysql_select.coverage" NAME="mysql_select Coverage Results" MODIFIED="1551413704103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
+    <SUITE FILE_PATH="coverage/file$mysql_select.coverage" NAME="mysql_select Coverage Results" MODIFIED="1551769957280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$pack_grid_place_.coverage" NAME="pack grid place 放置位置 Coverage Results" MODIFIED="1546582869566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
     <SUITE FILE_PATH="coverage/file$menubar.coverage" NAME="menubar菜单 Coverage Results" MODIFIED="1550817323746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
     <SUITE FILE_PATH="coverage/file$Unittests_in_a.coverage" NAME="Unittests in a Coverage Results" MODIFIED="1542609187709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
     <SUITE FILE_PATH="coverage/file$d.coverage" NAME="d Coverage Results" MODIFIED="1544769672577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/file$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1551342214469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$mail.coverage" NAME="mail Coverage Results" MODIFIED="1550570219874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$zuolei_dnspod_add.coverage" NAME="zuolei_dnspod_add Coverage Results" MODIFIED="1551075724663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="D:/展游脚本" />
     <SUITE FILE_PATH="coverage/file$erweima.coverage" NAME="erweima Coverage Results" MODIFIED="1551064908731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
-    <SUITE FILE_PATH="coverage/file$post_test.coverage" NAME="post_test Coverage Results" MODIFIED="1551413335234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
+    <SUITE FILE_PATH="coverage/file$post_test.coverage" NAME="post_test Coverage Results" MODIFIED="1551778847479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$zc.coverage" NAME="zc Coverage Results" MODIFIED="1551251482871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$login_test.coverage" NAME="login_test Coverage Results" MODIFIED="1550817221343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$create_api.coverage" NAME="create_api Coverage Results" MODIFIED="1551237070640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
     <SUITE FILE_PATH="coverage/file$b.coverage" NAME="b Coverage Results" MODIFIED="1544769742630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$messagebox.coverage" NAME="messagebox窗口 Coverage Results" MODIFIED="1551249811799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter_file" />
+    <SUITE FILE_PATH="coverage/file$messagebox.coverage" NAME="messagebox窗口 Coverage Results" MODIFIED="1551436560124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter_file" />
     <SUITE FILE_PATH="coverage/file$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1541836168334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/file$API_file.coverage" NAME="API_file Coverage Results" MODIFIED="1551405626188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$e1.coverage" NAME="e1 Coverage Results" MODIFIED="1541832950789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-=======
-    <SUITE FILE_PATH="coverage/file$test__2_.coverage" NAME="test (2) Coverage Results" MODIFIED="1550817289969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$listbox.coverage" NAME="listbox Coverage Results" MODIFIED="1550985512973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$test.coverage" NAME="test Coverage Results" MODIFIED="1550929492376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$pack_grid_place_.coverage" NAME="pack grid place 放置位置 Coverage Results" MODIFIED="1546582869566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
     <SUITE FILE_PATH="coverage/file$tk_test.coverage" NAME="tk_test Coverage Results" MODIFIED="1548744447973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-<<<<<<< HEAD
-    <SUITE FILE_PATH="coverage/file$login_test__2_.coverage" NAME="login_test (2) Coverage Results" MODIFIED="1551003479493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/python" />
-=======
+    <SUITE FILE_PATH="coverage/file$inter.coverage" NAME="inter Coverage Results" MODIFIED="1551785157859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$e.coverage" NAME="e Coverage Results" MODIFIED="1544769601404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$login_test__2_.coverage" NAME="login_test (2) Coverage Results" MODIFIED="1551254131983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file$login_test__2_.coverage" NAME="login_test (2) Coverage Results" MODIFIED="1551438098958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$Checkbutton.coverage" NAME="Checkbutton勾选项 Coverage Results" MODIFIED="1544063048643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
     <SUITE FILE_PATH="coverage/file$Unittests_in_e.coverage" NAME="Unittests in e Coverage Results" MODIFIED="1541819480729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/file$c.coverage" NAME="c Coverage Results" MODIFIED="1541503251282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file$mysql_test__1_.coverage" NAME="mysql_test (1) Coverage Results" MODIFIED="1551772496209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$class_test.coverage" NAME="class_test Coverage Results" MODIFIED="1550736706994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/file$dnspod_class.coverage" NAME="dnspod_class Coverage Results" MODIFIED="1551352848502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/API" />
     <SUITE FILE_PATH="coverage/file$network.coverage" NAME="network Coverage Results" MODIFIED="1550569611012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$create_api_server.coverage" NAME="create_api_server Coverage Results" MODIFIED="1551406026933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
+    <SUITE FILE_PATH="coverage/file$create_api_server.coverage" NAME="create_api_server Coverage Results" MODIFIED="1551423408884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1550564167681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1551413326781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
-=======
-    <SUITE FILE_PATH="coverage/file$b.coverage" NAME="b Coverage Results" MODIFIED="1544769742630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$e.coverage" NAME="e Coverage Results" MODIFIED="1544769601404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$network.coverage" NAME="network Coverage Results" MODIFIED="1550569611012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$login_test.coverage" NAME="login_test Coverage Results" MODIFIED="1550817221343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$messagebox.coverage" NAME="messagebox窗口 Coverage Results" MODIFIED="1550982992265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$.coverage" NAME="交互详解 Coverage Results" MODIFIED="1551008738992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$login_test__1_.coverage" NAME="login_test (1) Coverage Results" MODIFIED="1550817542813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/login" />
-    <SUITE FILE_PATH="coverage/file$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1550545480527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$menubar.coverage" NAME="menubar菜单 Coverage Results" MODIFIED="1550985400455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$radiobutton.coverage" NAME="radiobutton选择按钮 Coverage Results" MODIFIED="1550817502597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
+    <SUITE FILE_PATH="coverage/file$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1551777390412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requrst" />
     <SUITE FILE_PATH="coverage/file$tk.coverage" NAME="tk Coverage Results" MODIFIED="1543920398250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$Unittests_in_a.coverage" NAME="Unittests in a Coverage Results" MODIFIED="1542609187709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/file$mail.coverage" NAME="mail Coverage Results" MODIFIED="1550570219874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$zc.coverage" NAME="zc Coverage Results" MODIFIED="1550985166040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$e1.coverage" NAME="e1 Coverage Results" MODIFIED="1541832950789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/file$c.coverage" NAME="c Coverage Results" MODIFIED="1541503251282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$class_test.coverage" NAME="class_test Coverage Results" MODIFIED="1550736706994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class" />
     <SUITE FILE_PATH="coverage/file$mysqltest.coverage" NAME="mysqltest Coverage Results" MODIFIED="1550564267627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/file$radiobutton.coverage" NAME="radiobutton选择按钮 Coverage Results" MODIFIED="1550817502597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$mysql_test.coverage" NAME="mysql_test Coverage Results" MODIFIED="1551409423074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/file$mysql_test.coverage" NAME="mysql_test Coverage Results" MODIFIED="1551669421438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/file$listbox.coverage" NAME="listbox Coverage Results" MODIFIED="1543922209813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-=======
-    <SUITE FILE_PATH="coverage/file$zc_over.coverage" NAME="zc_over Coverage Results" MODIFIED="1550933165073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
     <SUITE FILE_PATH="coverage/file$Scale.coverage" NAME="Scale尺度 Coverage Results" MODIFIED="1543980137326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$excel.coverage" NAME="excel Coverage Results" MODIFIED="1548326104830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$a__1_.coverage" NAME="a (1) Coverage Results" MODIFIED="1541836168334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/file$ssh.coverage" NAME="ssh Coverage Results" MODIFIED="1550980618555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$Checkbutton.coverage" NAME="Checkbutton勾选项 Coverage Results" MODIFIED="1550985416538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
-    <SUITE FILE_PATH="coverage/file$mysql_test.coverage" NAME="mysql_test Coverage Results" MODIFIED="1550982064422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1550564167681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/file$chk_xinxi.coverage" NAME="chk_xinxi Coverage Results" MODIFIED="1550986632258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -124,147 +75,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-<<<<<<< HEAD
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/requrst/test.py">
+      <file leaf-file-name="inter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5606936" vertical-offset="260" max-vertical-offset="817">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="836">
+              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-=======
-      <file leaf-file-name="chk_xinxi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chk_xinxi.py">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="0.0" vertical-offset="519" max-vertical-offset="988">
-              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding>
-                <element signature="e#17#37#0" expanded="true" />
-=======
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="e#17#48#0" expanded="true" />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file leaf-file-name="mysql_select.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requrst/mysql_select.py">
+      <file leaf-file-name="mysql_connection_pool.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysql_connection_pool.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="608">
-              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-              <folding>
-                <marker date="1551413703193" expanded="true" signature="392:427" placeholder="select * fro..py_table..." />
-                <marker date="1551413703193" expanded="true" signature="392:441" placeholder="select * fro..py_table..." />
-=======
-      <file leaf-file-name="chart.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
-              <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-              <folding>
-                <element signature="e#17#48#0" expanded="true" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="post_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requrst/post_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-=======
-      <file leaf-file-name="login_test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-            <state vertical-scroll-proportion="-23.5" vertical-offset="359" max-vertical-offset="1824">
-              <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.109195404" vertical-offset="0" max-vertical-offset="2185">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
-                <marker date="1551003479433" expanded="true" signature="1526:1568" placeholder="select * FRO..py_user_table..." />
-=======
-            <state vertical-scroll-proportion="0.7321937" vertical-offset="911" max-vertical-offset="1653">
-              <caret line="75" column="47" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-                <marker date="1550833076697" expanded="true" signature="1371:1393" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1454" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1454" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1454" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1456" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1456" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1472" placeholder="select * FRO..py_table..." />
-                <marker date="1550833076697" expanded="true" signature="1419:1473" placeholder="select * FRO..py_table..." />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zc.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zc.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1653">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <marker date="1550985400399" expanded="true" signature="1336:1378" placeholder="select * FRO..py_user_table..." />
-                <marker date="1550985400399" expanded="true" signature="1636:1694" placeholder="INSERT INTO ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db_mysql.conf" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/db_mysql.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
-              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="select_sql.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/select_sql.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <marker date="1550990415697" expanded="true" signature="172:240" placeholder="select COUNT..register_log..." />
-                <marker date="1550990415697" expanded="true" signature="361:436" placeholder="select COUNT..register_log..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="912">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="交互详解.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/交互详解.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20255864" vertical-offset="0" max-vertical-offset="469">
-              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-              <folding />
             </state>
           </provider>
         </entry>
@@ -277,18 +107,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/微信.py" />
-        <option value="$PROJECT_DIR$/c.py" />
-        <option value="$PROJECT_DIR$/.idea/test.py" />
-        <option value="$PROJECT_DIR$/d.py" />
-        <option value="$PROJECT_DIR$/test/__init__.py" />
-        <option value="$PROJECT_DIR$/test/e.py" />
-        <option value="$PROJECT_DIR$/test/e1.py" />
-        <option value="$PROJECT_DIR$/test/a.py" />
         <option value="$PROJECT_DIR$/b.py" />
         <option value="$PROJECT_DIR$/e.py" />
         <option value="$PROJECT_DIR$/tk.py" />
         <option value="$PROJECT_DIR$/tkinter/tk.py" />
+        <option value="$PROJECT_DIR$/tkinter/listbox.py" />
+        <option value="$PROJECT_DIR$/tkinter/radiobutton选择按钮.py" />
         <option value="$PROJECT_DIR$/tkinter/Scale尺度.py" />
         <option value="$PROJECT_DIR$/tkinter/Checkbutton勾选项.py" />
         <option value="$PROJECT_DIR$/tkinter/canvas画布.py" />
@@ -307,53 +131,33 @@
         <option value="$PROJECT_DIR$/class/test.py" />
         <option value="$PROJECT_DIR$/mysql.conf" />
         <option value="$PROJECT_DIR$/login/login_test.py" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/tkinter/messagebox窗口.py" />
         <option value="$PROJECT_DIR$/API/erweima.py" />
         <option value="D:/展游脚本/zuolei_dnspod_add.py" />
         <option value="$PROJECT_DIR$/API/test.py" />
         <option value="$PROJECT_DIR$/API/dnspod_add.py" />
         <option value="$PROJECT_DIR$/API/zabbix.py" />
-        <option value="$PROJECT_DIR$/a.py" />
         <option value="$PROJECT_DIR$/API/create_api.py" />
         <option value="$PROJECT_DIR$/tkinter_file/messagebox窗口.py" />
-        <option value="$PROJECT_DIR$/login_test.py" />
-=======
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/tkinter/radiobutton选择按钮.py" />
         <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/chart.py" />
-        <option value="$PROJECT_DIR$/test1.py" />
-        <option value="$PROJECT_DIR$/over.py" />
-        <option value="$PROJECT_DIR$/zc_over.py" />
-        <option value="$PROJECT_DIR$/ssh.py" />
-=======
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
-        <option value="$PROJECT_DIR$/mysql_test.py" />
-        <option value="$PROJECT_DIR$/db_mysql.conf" />
-        <option value="$PROJECT_DIR$/tkinter/messagebox窗口.py" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-        <option value="$PROJECT_DIR$/zc.py" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/tkinter/listbox.py" />
-        <option value="$PROJECT_DIR$/select_sql.txt" />
-        <option value="$PROJECT_DIR$/select.py" />
-        <option value="$PROJECT_DIR$/select_sql.py" />
-        <option value="$PROJECT_DIR$/chk_xinxi.py" />
-=======
-        <option value="$PROJECT_DIR$/test.py" />
-<<<<<<< HEAD
         <option value="$PROJECT_DIR$/API/dnspod_class.py" />
         <option value="$PROJECT_DIR$/requrst/API_file.py" />
-        <option value="$PROJECT_DIR$/mysql_test.py" />
-        <option value="$PROJECT_DIR$/requrst/post_test.py" />
-        <option value="$PROJECT_DIR$/requrst/mysql_select.py" />
-        <option value="$PROJECT_DIR$/requrst/test.py" />
-=======
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
+        <option value="$PROJECT_DIR$/requrst/create_api_server.py" />
+        <option value="$PROJECT_DIR$/requrst/INFO_chk.py" />
+        <option value="$PROJECT_DIR$/a.py" />
         <option value="$PROJECT_DIR$/login_test.py" />
-        <option value="$PROJECT_DIR$/交互详解.py" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
+        <option value="$PROJECT_DIR$/mysql_test.py" />
+        <option value="$PROJECT_DIR$/zc.py" />
+        <option value="$PROJECT_DIR$/requrst/Config.py" />
+        <option value="$PROJECT_DIR$/requrst/mysql_select.py" />
+        <option value="$PROJECT_DIR$/requrst/mysql_connection_pool.py" />
+        <option value="$PROJECT_DIR$/requrst/mysql_test.py" />
+        <option value="$PROJECT_DIR$/requrst/mysql_operation .py" />
+        <option value="$PROJECT_DIR$/requrst/mysql_operation.py" />
+        <option value="$PROJECT_DIR$/requrst/test.py" />
+        <option value="$PROJECT_DIR$/requrst/post_test.py" />
+        <option value="$PROJECT_DIR$/inter.py" />
+        <option value="$PROJECT_DIR$/mysql_connection_pool.py" />
       </list>
     </option>
   </component>
@@ -363,8 +167,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -399,7 +203,7 @@
     <ConfirmationsSetting value="0" id="移除" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -411,13 +215,34 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="file">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="file" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="外部库" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; Python 3.6.0 (E:\python\python.exe) &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -426,7 +251,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="python_file" />
+              <option name="myItemId" value="file" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -465,11 +290,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="options.lastSelected" value="preferences.keymap" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="E:/python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/requrst" />
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -478,60 +303,30 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\pycharm\PyCharm 4.0.4\file\requrst" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\python\pycharm\PyCharm 4.0.4\file\login" />
       <recent name="E:\python\pycharm\PyCharm 4.0.4\file\tkinter" />
       <recent name="E:\python\pycharm\PyCharm 4.0.4\file\test" />
     </key>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Python.mysql_select">
+  <component name="RunManager" selected="Python.inter">
     <configuration default="false" name="post_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-  <component name="RunManager" selected="Python.交互详解">
-    <configuration default="false" name="Checkbutton勾选项" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="file" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter/Checkbutton勾选项.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="listbox" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requrst" />
-=======
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tkinter" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="file" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requrst/post_test.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tkinter/listbox.py" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -540,31 +335,7 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="create_api_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requrst" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="file" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requrst/create_api_server.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-<<<<<<< HEAD
     <configuration default="false" name="mysql_select" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <configuration default="false" name="select_sql" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -577,41 +348,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="file" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/requrst/mysql_select.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/select_sql.py" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PyDebugRunner" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PyDebugRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-<<<<<<< HEAD
-    <configuration default="false" name="mysql_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-=======
-    <configuration default="false" name="交互详解" type="PythonConfigurationType" factoryName="Python" temporary="true">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="file" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-<<<<<<< HEAD
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql_test.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/交互详解.py" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
+      <option name="SCRIPT_NAME" value="E:\python\pycharm\PyCharm 4.0.4\file\requrst\mysql_connection_pool.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -639,6 +376,48 @@
       <RunnerSettings RunnerId="PyDebugRunner" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="mysql_test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/requrst" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="file" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\python\pycharm\PyCharm 4.0.4\file\requrst\mysql_operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="inter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="file" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -830,7 +609,6 @@
       <envs />
       <method />
     </configuration>
-<<<<<<< HEAD
     <configuration default="false" name="dnspod_add" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -874,29 +652,6 @@
       <method />
     </configuration>
     <configuration default="false" name="login_test" type="PythonConfigurationType" factoryName="Python">
-=======
-    <configuration default="false" name="chk_xinxi" type="PythonConfigurationType" factoryName="Python">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="file" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chk_xinxi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="login_test" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -910,6 +665,28 @@
       <module name="file" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="E:\python\pycharm\PyCharm 4.0.4\file\login\login_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="login_test (2)" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="file" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -1000,33 +777,20 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-<<<<<<< HEAD
     <configuration default="false" name="test" type="PythonConfigurationType" factoryName="Python">
-=======
-<<<<<<< HEAD
-    <configuration default="false" name="login_test (2)" type="PythonConfigurationType" factoryName="Python">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-<<<<<<< HEAD
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-=======
-      <option name="WORKING_DIRECTORY" value="E:/python" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="file" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="E:\python\pycharm\PyCharm 4.0.4\file\dnspod_login_add.py" />
-=======
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_test.py" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -1035,7 +799,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-<<<<<<< HEAD
     <list size="14">
       <item index="0" class="java.lang.String" itemvalue="Python.dnspod_add" />
       <item index="1" class="java.lang.String" itemvalue="Python.erweima" />
@@ -1047,60 +810,18 @@
       <item index="7" class="java.lang.String" itemvalue="Python.b" />
       <item index="8" class="java.lang.String" itemvalue="Python.test" />
       <item index="9" class="java.lang.String" itemvalue="Python.post_test" />
-      <item index="10" class="java.lang.String" itemvalue="Python.create_api_server" />
-      <item index="11" class="java.lang.String" itemvalue="Python.mysql_select" />
-      <item index="12" class="java.lang.String" itemvalue="Python.mysql_test" />
-      <item index="13" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="10" class="java.lang.String" itemvalue="Python.mysql_select" />
+      <item index="11" class="java.lang.String" itemvalue="Python.test (1)" />
+      <item index="12" class="java.lang.String" itemvalue="Python.mysql_test (1)" />
+      <item index="13" class="java.lang.String" itemvalue="Python.inter" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.mysql_select" />
+        <item index="0" class="java.lang.String" itemvalue="Python.inter" />
         <item index="1" class="java.lang.String" itemvalue="Python.post_test" />
         <item index="2" class="java.lang.String" itemvalue="Python.test (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.mysql_test" />
-        <item index="4" class="java.lang.String" itemvalue="Python.create_api_server" />
-=======
-    <list size="11">
-      <item index="0" class="java.lang.String" itemvalue="Python.chk_xinxi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.login_test" />
-      <item index="2" class="java.lang.String" itemvalue="Python.zc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.c" />
-      <item index="4" class="java.lang.String" itemvalue="Python.b" />
-      <item index="5" class="java.lang.String" itemvalue="Python.login_test (2)" />
-      <item index="6" class="java.lang.String" itemvalue="Python.Checkbutton勾选项" />
-      <item index="7" class="java.lang.String" itemvalue="Python.listbox" />
-      <item index="8" class="java.lang.String" itemvalue="Python.menubar菜单" />
-      <item index="9" class="java.lang.String" itemvalue="Python.select_sql" />
-      <item index="10" class="java.lang.String" itemvalue="Python.交互详解" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.交互详解" />
-        <item index="1" class="java.lang.String" itemvalue="Python.select_sql" />
-        <item index="2" class="java.lang.String" itemvalue="Python.listbox" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Checkbutton勾选项" />
-=======
-    <list size="10">
-      <item index="0" class="java.lang.String" itemvalue="Python.login_test" />
-      <item index="1" class="java.lang.String" itemvalue="Python.login_test (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.zc" />
-      <item index="3" class="java.lang.String" itemvalue="Python.c" />
-      <item index="4" class="java.lang.String" itemvalue="Python.b" />
-      <item index="5" class="java.lang.String" itemvalue="Python.login_test (1)" />
-      <item index="6" class="java.lang.String" itemvalue="Python.menubar菜单" />
-      <item index="7" class="java.lang.String" itemvalue="Python.mysql_test" />
-      <item index="8" class="java.lang.String" itemvalue="Python.radiobutton选择按钮" />
-      <item index="9" class="java.lang.String" itemvalue="Python.test" />
-    </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test" />
-        <item index="1" class="java.lang.String" itemvalue="Python.mysql_test" />
-        <item index="2" class="java.lang.String" itemvalue="Python.login_test (1)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.radiobutton选择按钮" />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
-        <item index="4" class="java.lang.String" itemvalue="Python.menubar菜单" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
+        <item index="3" class="java.lang.String" itemvalue="Python.mysql_test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.mysql_select" />
       </list>
     </recent_temporary>
   </component>
@@ -1118,37 +839,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-<<<<<<< HEAD
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-=======
-<<<<<<< HEAD
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
-=======
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
     <editor active="true" />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32713178" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
+      <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3273495" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30834213" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="更改" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-<<<<<<< HEAD
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4213305" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4181626" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-=======
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22790697" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16032211" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
       <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32868218" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1160,6 +866,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32946146" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1183,246 +890,74 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-<<<<<<< HEAD
-      <option name="time" value="52" />
-=======
-      <option name="time" value="41" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="74" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="result['name'] != None" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/pymongo/mongo_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.65250546" vertical-offset="5671" max-vertical-offset="35226">
-          <caret line="370" column="74" selection-start-line="370" selection-start-column="74" selection-end-line="370" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-=======
-    <entry file="file://$PROJECT_DIR$/微信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="67" max-vertical-offset="703">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="114" max-vertical-offset="608">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1563" max-vertical-offset="2128">
-          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="1482">
-          <caret line="43" column="10" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="703">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="494" max-vertical-offset="608">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1389" max-vertical-offset="2128">
-          <caret line="86" column="21" selection-start-line="86" selection-start-column="21" selection-end-line="86" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="608">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thumbnail.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-    <entry file="file://$PROJECT_DIR$/test/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/tk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="57" max-vertical-offset="513">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/Scale尺度.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41454545" vertical-offset="0" max-vertical-offset="550">
-          <caret line="12" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/canvas画布.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13818182" vertical-offset="0" max-vertical-offset="550">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/tkinter_file/Checkbutton勾选项.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-    <entry file="file://$PROJECT_DIR$/.idea/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.4336917" vertical-offset="371" max-vertical-offset="2128">
-          <caret line="91" column="0" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/微信.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="145" max-vertical-offset="703">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/正则表达式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.031147541" vertical-offset="0" max-vertical-offset="610">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/tkinter_file/pack grid place 放置位置.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-=======
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-    <entry file="file://$PROJECT_DIR$/验证码图片生成.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="171" max-vertical-offset="1463">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-    <entry file="file://$PROJECT_DIR$/excel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-<<<<<<< HEAD
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/listbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-=======
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="148" max-vertical-offset="798">
-          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/tk_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="872" max-vertical-offset="1539">
-          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-=======
     <entry file="file://$PROJECT_DIR$/requrst/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.68524593" vertical-offset="0" max-vertical-offset="646">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="836">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-    <entry file="file://$PROJECT_DIR$/network.py">
+    <entry file="file://$PROJECT_DIR$/requrst/mysql_connection_pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5327869" vertical-offset="55" max-vertical-offset="684">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="133" max-vertical-offset="2204">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1551772850510" expanded="true" signature="-1:-1" placeholder="select * fro..py_table..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrst/post_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="950" max-vertical-offset="1064">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrst/mysql_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+            <marker date="1551778118880" expanded="true" signature="-1:-1" placeholder="select * fro..py_table..." />
+            <marker date="1551778118880" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrst/mysql_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+            <marker date="1551778118880" expanded="true" signature="-1:-1" placeholder="select * fro..py_table..." />
+            <marker date="1551778118880" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1433,6 +968,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/class/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="114">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/PyInstaller/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.625" vertical-offset="41743" max-vertical-offset="42351">
@@ -1440,145 +989,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login/login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6889881" vertical-offset="677" max-vertical-offset="1596">
-          <caret line="60" column="28" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#14#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
-=======
-    <entry file="file://$PROJECT_DIR$/mail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48065478" vertical-offset="0" max-vertical-offset="672">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.46011397" vertical-offset="0" max-vertical-offset="702">
-          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/tkinter_file/radiobutton选择按钮.py">
-=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="456">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkinter_file/menubar菜单.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="513">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/mysql/connector/conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="3044" max-vertical-offset="11134">
+          <caret line="178" column="0" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/.PyCharm40/system/python_stubs/-695925223/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.41452992" vertical-offset="94785" max-vertical-offset="109288">
           <caret line="5004" column="8" selection-start-line="5004" selection-start-column="8" selection-end-line="5004" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/class/test.py">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="616">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/tkinter_file/menubar菜单.py">
-=======
-    <entry file="file://$PROJECT_DIR$/tkinter/pack grid place 放置位置.py">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2835821" vertical-offset="0" max-vertical-offset="469">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/mail.py">
-=======
-    <entry file="file://$PROJECT_DIR$/zc_over.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16204691" vertical-offset="0" max-vertical-offset="469">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_test.py">
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <marker date="1550982064285" expanded="true" signature="-1:-1" placeholder="create table..py_user_table..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter/messagebox窗口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="361">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ssh.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7292111" vertical-offset="0" max-vertical-offset="1368">
-          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-          <folding>
-            <element signature="e#79#94#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter/radiobutton选择按钮.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16204691" vertical-offset="0" max-vertical-offset="469">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter/menubar菜单.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32409382" vertical-offset="38" max-vertical-offset="513">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter/Checkbutton勾选项.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35181236" vertical-offset="63" max-vertical-offset="532">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter/listbox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64818764" vertical-offset="0" max-vertical-offset="513">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/../../../Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="32028" max-vertical-offset="76095">
           <caret line="1698" column="0" selection-start-line="1698" selection-start-column="0" selection-end-line="1698" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1586,19 +1029,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.28625235" vertical-offset="0" max-vertical-offset="684">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="47" />
-          <folding>
-            <element signature="e#32#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06967985" vertical-offset="780" max-vertical-offset="1482">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-          <folding>
-            <element signature="e#50#68#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1606,29 +1036,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.24858756" vertical-offset="381" max-vertical-offset="988">
           <caret line="27" column="84" selection-start-line="27" selection-start-column="84" selection-end-line="27" selection-end-column="84" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="DROP TABLE I..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="create table..meizi_meizis..." />
-            <marker date="1551240091750" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tkinter_file/messagebox窗口.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="380">
-          <caret line="9" column="121" selection-start-line="9" selection-start-column="121" selection-end-line="9" selection-end-column="121" />
-          <folding>
-            <element signature="e#0#20#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1636,29 +1043,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.72993827" vertical-offset="1518" max-vertical-offset="2166">
           <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41975307" vertical-offset="526" max-vertical-offset="1444">
-          <caret line="52" column="35" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
-          <folding>
-            <element signature="e#196#384#0" expanded="false" />
-            <element signature="e#1921#1955#0" expanded="false" />
-            <element signature="e#1975#2001#0" expanded="false" />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551250919140" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1667,69 +1051,15 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="988" max-vertical-offset="1596">
           <caret line="71" column="69" selection-start-line="71" selection-start-column="69" selection-end-line="71" selection-end-column="69" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
-=======
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-23.5" vertical-offset="359" max-vertical-offset="1824">
-          <caret line="56" column="17" selection-start-line="56" selection-start-column="17" selection-end-line="56" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1551003479433" expanded="true" signature="1526:1568" placeholder="select * FRO..py_user_table..." />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
+            <element signature="e#0#14#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/API/dnspod_add.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33769062" vertical-offset="431" max-vertical-offset="1349">
           <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
-          <folding>
-            <element signature="e#14#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-=======
-    <entry file="file://$PROJECT_DIR$/chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="551">
-          <caret line="0" column="2" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-          <folding>
-            <element signature="e#17#48#0" expanded="true" />
-=======
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-    <entry file="file://$PROJECT_DIR$/zc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.1233141" vertical-offset="57" max-vertical-offset="1881">
-          <caret line="61" column="21" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
-          <folding>
-            <element signature="e#24#38#0" expanded="true" />
-<<<<<<< HEAD
-            <marker date="1551253834006" expanded="true" signature="-1:-1" placeholder="select * FRO..py_table..." />
-            <marker date="1551253834006" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-=======
-            <marker date="1550828779642" expanded="true" signature="1251:1297" placeholder="INSERT INTO ..." />
-            <marker date="1550828779642" expanded="true" signature="1251:1304" placeholder="INSERT INTO ..." />
-            <marker date="1550828779642" expanded="true" signature="1251:1304" placeholder="INSERT INTO ..." />
-            <marker date="1550828779642" expanded="true" signature="1251:1324" placeholder="INSERT INTO ..." />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-          </folding>
-        </state>
-      </provider>
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/dnspod_login_add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.70520234" vertical-offset="109" max-vertical-offset="1444">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="e#17#37#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1737,7 +1067,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4825708" vertical-offset="8734" max-vertical-offset="9652">
           <caret line="511" column="0" selection-start-line="511" selection-start-column="0" selection-end-line="511" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1745,15 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="5.0558767" vertical-offset="10505" max-vertical-offset="15105">
           <caret line="695" column="0" selection-start-line="695" selection-start-column="0" selection-end-line="695" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/requrst/create_api_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1761,7 +1081,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="627">
           <caret line="0" column="3" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1769,32 +1088,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3125" vertical-offset="114" max-vertical-offset="855">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-          <folding>
-            <element signature="e#14#29#0" expanded="false" />
-=======
-    <entry file="file://$PROJECT_DIR$/chk_xinxi.py">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#17#37#0" expanded="true" />
-=======
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-          <folding>
-            <element signature="e#17#48#0" expanded="true" />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/flask/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="511" max-vertical-offset="43548">
-          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1802,111 +1095,202 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="473" max-vertical-offset="1995">
           <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql_test.py">
+    <entry file="file://$PROJECT_DIR$/requrst/create_api_server.py">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.805395" vertical-offset="0" max-vertical-offset="532">
-          <caret line="22" column="35" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
-          <folding>
-            <marker date="1551409400949" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-=======
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1653">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <marker date="1550985400399" expanded="true" signature="1336:1378" placeholder="select * FRO..py_user_table..." />
-            <marker date="1550985400399" expanded="true" signature="1636:1694" placeholder="INSERT INTO ..." />
-=======
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="532">
-          <caret line="15" column="50" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
-          <folding>
-            <marker date="1550823838337" expanded="true" signature="357:422" placeholder="create table..py_table..." />
-            <marker date="1550823838337" expanded="true" signature="434:487" placeholder="INSERT INTO ..." />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-          </folding>
+        <state vertical-scroll-proportion="0.54913294" vertical-offset="0" max-vertical-offset="519">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/requrst/post_test.py">
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/urllib3/util/connection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="247">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-=======
-    <entry file="file://$PROJECT_DIR$/db_mysql.conf">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< HEAD
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1157" max-vertical-offset="2470">
+          <caret line="67" column="41" selection-start-line="67" selection-start-column="41" selection-end-line="67" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/requrst/mysql_select.py">
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/mysql/connector/abstracts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="13" max-vertical-offset="608">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-          <folding>
-            <marker date="1551413703193" expanded="true" signature="392:427" placeholder="select * fro..py_table..." />
-            <marker date="1551413703193" expanded="true" signature="392:441" placeholder="select * fro..py_table..." />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="10666" max-vertical-offset="22078">
+          <caret line="580" column="0" selection-start-line="580" selection-start-column="0" selection-end-line="580" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47821352" vertical-offset="7427" max-vertical-offset="22800">
+          <caret line="431" column="46" selection-start-line="431" selection-start-column="46" selection-end-line="431" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="519">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tkinter_file/messagebox窗口.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14643545" vertical-offset="0" max-vertical-offset="519">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/mysql/connector/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4348" max-vertical-offset="9804">
+          <caret line="242" column="0" selection-start-line="242" selection-start-column="0" selection-end-line="242" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="8794" max-vertical-offset="19912">
+          <caret line="493" column="0" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/mysql/connector/cursor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="10314" max-vertical-offset="26182">
+          <caret line="558" column="0" selection-start-line="558" selection-start-column="0" selection-end-line="558" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_pluginbase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33223686" vertical-offset="8310" max-vertical-offset="9101">
+          <caret line="451" column="0" selection-start-line="451" selection-start-column="0" selection-end-line="451" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33223686" vertical-offset="881" max-vertical-offset="3002">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33223686" vertical-offset="4624" max-vertical-offset="16378">
+          <caret line="260" column="0" selection-start-line="260" selection-start-column="0" selection-end-line="260" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53125" vertical-offset="0" max-vertical-offset="608">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrst/Config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/werkzeug/wrappers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="415" max-vertical-offset="38133">
+          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/werkzeug/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334" vertical-offset="17230" max-vertical-offset="18012">
+          <caret line="922" column="0" selection-start-line="922" selection-start-column="0" selection-end-line="922" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42795" max-vertical-offset="43548">
+          <caret line="2292" column="0" selection-start-line="2292" selection-start-column="0" selection-end-line="2292" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Lib/selectors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="5688" max-vertical-offset="11647">
+          <caret line="314" column="0" selection-start-line="314" selection-start-column="0" selection-end-line="314" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrst/INFO_chk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="522">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/requrst/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5606936" vertical-offset="260" max-vertical-offset="817">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="276" max-vertical-offset="836">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-=======
-    <entry file="file://$PROJECT_DIR$/select_sql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="703">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1550990415697" expanded="true" signature="172:240" placeholder="select COUNT..register_log..." />
-            <marker date="1550990415697" expanded="true" signature="361:436" placeholder="select COUNT..register_log..." />
-=======
-        <state vertical-scroll-proportion="0.7321937" vertical-offset="911" max-vertical-offset="1653">
-          <caret line="75" column="47" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-            <marker date="1550833076697" expanded="true" signature="1371:1393" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1454" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1454" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1454" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1456" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1456" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1472" placeholder="select * FRO..py_table..." />
-            <marker date="1550833076697" expanded="true" signature="1419:1473" placeholder="select * FRO..py_table..." />
->>>>>>> 97921c9fb677d19d2bd49636cc5aeb7806e7ec2d
->>>>>>> 22d457899259c52ce0b247fc63c991a166bec2e1
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test1.py">
+    <entry file="file://$PROJECT_DIR$/requrst/mysql_connection_pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="912">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2204">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+            <marker date="1551772850510" expanded="true" signature="-1:-1" placeholder="select * fro..py_table..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/交互详解.py">
+    <entry file="file://$PROJECT_DIR$/requrst/post_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20255864" vertical-offset="0" max-vertical-offset="469">
-          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1064">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requrst/mysql_operation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43464053" vertical-offset="0" max-vertical-offset="918">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#56#0" expanded="true" />
+            <marker date="1551778118880" expanded="true" signature="-1:-1" placeholder="select * fro..py_table..." />
+            <marker date="1551778118880" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="836">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql_connection_pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.109195404" vertical-offset="0" max-vertical-offset="2185">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

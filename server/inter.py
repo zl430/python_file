@@ -1,19 +1,19 @@
 from flask import Flask
 from flask import request
-from requrst import mysql_operation
+import mysql_operation
 app = Flask(__name__)
 # @app.route('/', methods=['GET', 'POST'])
 # def home():
 #     return '<h1>Home</h1>'
-@app.route('/signin', methods=['POST'])
-def signin():
-    # print(request.query_string)
-    if request.form['username'] == 'admin' and request.form['password'] == 'password':
-        from API import dnspod_class
-        add = dnspod_class.dnspod_api_chk('71244700', 'www', '1.1.1.1')
-        add.dns_add()
-        return '<h3>Hello, admin!</h3>'
-    return '<h3>Bad username or password.</h3>'
+# @app.route('/signin', methods=['POST'])
+# def signin():
+#     # print(request.query_string)
+#     if request.form['username'] == 'admin' and request.form['password'] == 'password':
+#         from API import dnspod_class
+#         add = dnspod_class.dnspod_api_chk('71244700', 'www', '1.1.1.1')
+#         add.dns_add()
+#         return '<h3>Hello, admin!</h3>'
+#     return '<h3>Bad username or password.</h3>'
 @app.route('/login', methods=['POST'])
 def login():
     name = request.form['username']
@@ -22,9 +22,11 @@ def login():
     over = mysql.login()
     if over == True:
         return '1'
+    elif over == False:
+        return '2'
     else:
         return '0'
-@app.route('/registered', methods=['post'])
+@app.route('/registered', methods=['POST'])
 def registered():
     name = request.form['username']
     password = request.form['password']

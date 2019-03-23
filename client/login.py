@@ -16,12 +16,14 @@ def validateText():
 def anw_button():
         name = entry1.get()
         password = entry2.get()
-        url = 'http://127.0.0.1:66/login'
+        # url = 'http://127.0.0.1:66/login'
+        url = 'http://106.75.65.157:66/login'
         data = {'username': name, 'password': password}
         over = requests.post(url, data, timeout=30)
         a = over.text
         if a == '1':
             label3['text'] = '登陆成功'
+            # top.destroy()
         elif a == '2':
             label3['text'] = '账户或密码错误'
         else:

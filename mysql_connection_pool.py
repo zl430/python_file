@@ -1,7 +1,7 @@
 import MySQLdb
 from DBUtils.PooledDB import PooledDB
 from MySQLdb.cursors import DictCursor
-from project im
+
 
 class MySQL():
     pool = None

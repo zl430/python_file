@@ -1,7 +1,9 @@
 from flask import Flask
 from flask import request
+from flask_cors import *
 import mysql_operation
 app = Flask(__name__)
+CORS(app, supports_credentials=True)
 # @app.route('/', methods=['GET', 'POST'])
 # def home():
 #     return '<h1>Home</h1>'
@@ -14,8 +16,11 @@ app = Flask(__name__)
 #         add.dns_add()
 #         return '<h3>Hello, admin!</h3>'
 #     return '<h3>Bad username or password.</h3>'
+# @app.route('/login', methods=['GET'])
 @app.route('/login', methods=['POST'])
 def login():
+    # name = request.args.get("username")
+    # password = request.args.get("password")
     name = request.form['username']
     password = request.form['password']
     mysql = mysql_operation.connection(username=name, password=password, mail=None)
@@ -23,7 +28,7 @@ def login():
     if over == True:
         return '1'
     elif over == False:
-        return '2'
+        return '账户或密码错误'
     else:
         return '0'
 @app.route('/registered', methods=['POST'])
@@ -37,5 +42,10 @@ def registered():
         return '1'
     else:
         return '0'
+# @app.route('host_form', methods=['POST'])
+# def host_form():
+#     mysql = mysql_operation.host_select()
+#     over = mysql.host_all()
+#     return over
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=66)

@@ -9,11 +9,10 @@ class connection():
         self.check_user_sql = "select username from user where username = \"%s\"" % self.name
         self.check_user_pass_sql = "select * from user where username = \"%s\" AND password = %s AND available = \"Y\"" % (self.name, self.password)
         self.check_user_available_sql = "select available from user where username = \"%s\"" % self.name
-        self.registered_user = '''INSERT INTO user (username, password) VALUES (\"%s\", \"%s\")''' % (self.name, self.password)
+        self.registered_user_sql = '''INSERT INTO user (username, password) VALUES (\"%s\", \"%s\")''' % (self.name, self.password)
     def login(self):
         check_user = self.mysql.getOne(self.check_user_sql)
         if check_user == False or check_user is None:
-            self.mysql.dispose()
             return 'nouser'
         elif check_user != None or check_user != False:
             check_suer_pass = self.mysql.getAll(self.check_user_pass_sql)
@@ -28,8 +27,8 @@ class connection():
     def create(self):
         check_user = self.mysql.getOne(self.check_user_sql)
         if check_user == False or check_user is None:
-            print(self.registered_user)
-            registered = self.mysql.insertOne(self.registered_user)
+            print(self.registered_user_sql)
+            registered = self.mysql.insertOne(self.registered_user_sql)
             self.mysql.dispose()
             if registered == 1:
                 return True

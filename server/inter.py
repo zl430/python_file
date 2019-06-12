@@ -42,5 +42,16 @@ def registered():
         return '1'
     else:
         return '0'
+@app.route('/checkhost', methods=['POST'])
+def check_host():
+    hostip = request.form['hostip']
+    print(hostip)
+    mysql = mysql_operation.connection(hostip=hostip)
+    over = mysql.host_information()
+    return over
+    # if over == True:
+    #     return '1'
+    # else:
+    #     return '0'
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=66)

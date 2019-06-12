@@ -1,15 +1,16 @@
 # coding:utf-8
 import mysql_connection_pool
+import sql
 #申请资源
 class connection():
     mysql = mysql_connection_pool.MySQL()
     def __init__(self, username, password):
         self.name = username
         self.password = password
-        self.check_user_sql = "select username from user where username = \"%s\"" % self.name
-        self.check_user_pass_sql = "select * from user where username = \"%s\" AND password = %s AND available = \"Y\"" % (self.name, self.password)
-        self.check_user_available_sql = "select available from user where username = \"%s\"" % self.name
-        self.registered_user_sql = '''INSERT INTO user (username, password) VALUES (\"%s\", \"%s\")''' % (self.name, self.password)
+        self.check_user_sql = sql.check_user_sql % self.name
+        self.check_user_pass_sql = sql.check_user_pass_sql % (self.name, self.password)
+        self.check_user_available_sql = sql.check_user_available_sql % self.name
+        self.registered_user_sql = sql.registered_user % (self.name, self.password)
     def login(self):
         check_user = self.mysql.getOne(self.check_user_sql)
         if check_user == False or check_user is None:
@@ -36,3 +37,10 @@ class connection():
             self.mysql.dispose()
             return False
         self.mysql.dispose()
+
+
+
+# self.check_user_sql = "select username from user where username = \"%s\"" % self.name
+# self.check_user_pass_sql = "select * from user where username = \"%s\" AND password = %s AND available = \"Y\"" % (self.name, self.password)
+# self.check_user_available_sql = "select available from user where username = \"%s\"" % self.name
+# self.registered_user_sql = '''INSERT INTO user (username, password) VALUES (\"%s\", \"%s\")''' % (self.name, self.password)

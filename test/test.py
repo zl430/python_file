@@ -25,7 +25,8 @@
 # ssh.close()
 
 import requests
-data = {'username': 'test3463', 'password': '123456'}
-r = requests.post('http://127.0.0.1:66/login', data)
-print('http://127.0.0.1:66/login', data)
+# data = {'username': 'test3463', 'password': '123456'}
+data = {'hostip': '1.1.1.1'}
+r = requests.post('http://127.0.0.1:66/checkhost', data)
+print('http://127.0.0.1:66/checkhost', data)
 print(r.text)

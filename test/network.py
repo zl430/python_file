@@ -2,15 +2,15 @@
 # 文件名：server.py
 
 # 导入 socket、sys 模块
-import socket
+import socket_server
 import sys
 
 # 创建 socket 对象
-serversocket = socket.socket(
-            socket.AF_INET, socket.SOCK_STREAM)
+serversocket = socket_server.socket_test(
+            socket_server.AF_INET, socket_server.SOCK_STREAM)
 
 # 获取本地主机名
-host = socket.gethostname()
+host = socket_server.gethostname()
 
 port = 9999
 

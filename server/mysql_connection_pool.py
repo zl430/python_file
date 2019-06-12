@@ -35,7 +35,7 @@ class MySQL(object):
             return result
         else:
             result = False
-        # return result
+        return result
     def getMany(self, sql, num, param=None):
         if param is None:
             count = self.cursor.execute(sql)

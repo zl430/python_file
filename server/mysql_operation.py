@@ -3,37 +3,37 @@ import mysql_connection_pool
 #申请资源
 class connection():
     mysql = mysql_connection_pool.MySQL()
-    def __init__(self, username, password, mail):
+    def __init__(self, username, password):
         self.name = username
         self.password = password
-        self.mail = mail
+        self.check_user_sql = "select username from user where username = \"%s\"" % self.name
+        self.check_user_pass_sql = "select * from user where username = \"%s\" AND password = %s AND available = \"Y\"" % (self.name, self.password)
+        self.check_user_available_sql = "select available from user where username = \"%s\"" % self.name
+        self.registered_user = '''INSERT INTO user (username, password) VALUES (\"%s\", \"%s\")''' % (self.name, self.password)
     def login(self):
-        sql = "select * from py_table where name = %s AND password = %s" % (self.name, self.password)
-        result = self.mysql.getAll(sql)
-        if result == False:
-            return False
-        elif result:
-            return True
-        self.mysql.dispose()
+        check_user = self.mysql.getOne(self.check_user_sql)
+        if check_user == False or check_user is None:
+            self.mysql.dispose()
+            return 'nouser'
+        elif check_user != None or check_user != False:
+            check_suer_pass = self.mysql.getAll(self.check_user_pass_sql)
+            if check_suer_pass == False:
+                check_suer_available = self.mysql.getOne(self.check_user_available_sql)
+                result = check_suer_available['available']
+                if result == b'N':
+                    return 'N'
+            elif check_suer_pass:
+                return True
+            self.mysql.dispose()
     def create(self):
-        sql = "select name from py_table where name = %s" % self.name
-        result = self.mysql.getOne(sql)
-        if result is None:
-            sql = '''INSERT INTO py_table (name, password, mail) VALUES (%s, %s, "%s")''' % (self.name, self.password, self.mail)
-            result = self.mysql.insertOne(sql)
-            if result == 1:
+        check_user = self.mysql.getOne(self.check_user_sql)
+        if check_user == False or check_user is None:
+            print(self.registered_user)
+            registered = self.mysql.insertOne(self.registered_user)
+            self.mysql.dispose()
+            if registered == 1:
                 return True
         else:
+            self.mysql.dispose()
             return False
-        self.mysql.dispose()
-class host_select():
-    mysql = mysql_connection_pool.MySQL()
-    def host_all(self):
-        sql = "select * FROM host"
-        result = self.mysql.getAll(sql)
-        print(result)
-        if result == False:
-            return False
-        elif result:
-            return result
         self.mysql.dispose()

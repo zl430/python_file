@@ -23,29 +23,24 @@ def login():
     # password = request.args.get("password")
     name = request.form['username']
     password = request.form['password']
-    mysql = mysql_operation.connection(username=name, password=password, mail=None)
+    print(name, password)
+    mysql = mysql_operation.connection(username=name, password=password)
     over = mysql.login()
     if over == True:
         return '1'
-    elif over == False:
-        return '账户或密码错误'
-    else:
+    elif over == 'N':
+        return '2'
+    elif over == 'nouser':
         return '0'
 @app.route('/registered', methods=['POST'])
 def registered():
     name = request.form['username']
     password = request.form['password']
-    mail = request.form['mail']
-    mysql = mysql_operation.connection(username=name, password=password, mail=mail)
+    mysql = mysql_operation.connection(username=name, password=password)
     over = mysql.create()
     if over == True:
         return '1'
     else:
         return '0'
-# @app.route('host_form', methods=['POST'])
-# def host_form():
-#     mysql = mysql_operation.host_select()
-#     over = mysql.host_all()
-#     return over
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=66)

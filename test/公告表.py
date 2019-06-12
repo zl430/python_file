@@ -1,0 +1,40 @@
+# -*- coding: utf-8 -*-
+import json
+import tkinter as tk
+win = tk.Tk()
+win.geometry('800x500')
+win.wm_title('综合实例')
+win.resizable(width=False, height=False)
+file = open('C:/Users/zuolei/Downloads/gameNotice.json', encoding='utf-8')
+f = file.read()
+f = json.loads(f)
+print(f["1000"])
+def check():
+    id = entry1.get()
+    print(id)
+    # v = tk.StringVar()
+    # entry = tk.Entry(win, textvariable=v)
+    # v.set(id)
+    # print(entry)
+def submit():
+    pass
+label1 = tk.Label(win, text='编          号:', font=('宋体', '18')).grid(row=1, column=1, padx=0, pady=10, sticky='w')
+label2 = tk.Label(win, text='渠  道  名  称:', font=('宋体', '18')).grid(row=2, column=1, padx=0, pady=15, sticky='w')
+label3 = tk.Label(win, text='公  告  内  容:', font=('宋体', '18')).grid(row=3, column=1, padx=0, pady=16, sticky='w')
+label4 = tk.Label(win, text='I            P:', font=('宋体', '18')).grid(row=4, column=1, padx=0, pady=17, sticky='w')
+label5 = tk.Label(win, text='服务器停服提示:', font=('宋体', '18')).grid(row=5, column=1, padx=0, pady=18, sticky='w')
+label6 = tk.Label(win, text='Log 服务器地址:', font=('宋体', '18')).grid(row=6, column=1, padx=0, pady=19, sticky='w')
+label7 = tk.Label(win, text='换   包    URL:', font=('宋体', '18')).grid(row=7, column=1, padx=0, pady=20, sticky='w')
+label8 = tk.Label(win, text='热   更    URL:', font=('宋体', '18')).grid(row=8, column=1, padx=0, pady=21, sticky='w')
+
+entry1 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=1, column=1, padx=185, pady=10, sticky='w')
+entry2 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=2, column=1, padx=185, pady=15, sticky='w')
+entry3 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=3, column=1, padx=185, pady=16, sticky='w')
+entry4 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=4, column=1, padx=185, pady=17, sticky='w')
+entry5 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=5, column=1, padx=185, pady=18, sticky='w')
+entry6 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=6, column=1, padx=185, pady=19, sticky='w')
+entry7 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=7, column=1, padx=185, pady=20, sticky='w')
+entry8 = tk.Entry(win, font=('宋体', '18'), width = 30).grid(row=8, column=1, padx=185, pady=21, sticky='w')
+check = tk.Button(win, text='查询', command=check).grid(row=1, column=1, padx=650, pady=10, sticky='s')
+submit = tk.Button(win, text='提交', command=submit).grid(row=2, column=1, padx=650, pady=20, sticky='s')
+win.mainloop()

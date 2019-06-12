@@ -8,7 +8,7 @@ width = 1200
 height = 600
 class Peas():
     def __init__(self):
-        self.image = pygame.image.load("img/wandou.gif")
+        self.image = pygame.image.load("E:/python/pycharm/PyCharm 4.0.4/file/pygame/img/wandou.gif")
         self.image_rect = self.image.get_rect()
         self.image_rect.top = 280
         self.is_move_up = False
@@ -38,7 +38,7 @@ class Bullet():
     #炮弹创建间隔时间
     interval = 0
     def __init__(self, pea):
-        self.image = pygame.image.load("img/zd.gif")
+        self.image = pygame.image.load("E:/python/pycharm/PyCharm 4.0.4/file/pygame/img/zd.gif")
         self.image_rect = self.image.get_rect()
         self.image_rect.top = pea.image_rect.top
         self.image_rect.left = pea.image_rect.right
@@ -60,7 +60,7 @@ class Zombie():
     interval = 0
     zombie_list = []
     def __init__(self):
-        self.image = pygame.image.load("img/js.gif")
+        self.image = pygame.image.load("E:/python/pycharm/PyCharm 4.0.4/file/pygame/img/js.gif")
         #改变图片大小
         self.image = pygame.transform.scale(self.image, (80, 80))
         self.image_rect = self.image.get_rect()
@@ -98,9 +98,9 @@ def key_control():
             elif event.key == pygame.K_SPACE:
                 peas.is_shout = False
 screen = pygame.display.set_mode((width, height), 0, 32)
-pygame.mixer.music.load("mp3/bj.mp3")
+pygame.mixer.music.load("E:/python/pycharm/PyCharm 4.0.4/file/pygame/mp3/bj.mp3")
 #------------背景-----------------
-background = pygame.image.load("img/beijing.png")
+background = pygame.image.load("E:/python/pycharm/PyCharm 4.0.4/file/pygame/img/beijing.png")
 background = pygame.transform.scale(background, (width, height))
 background_rect = background.get_rect()
 #-----------优化运行速度--------------
